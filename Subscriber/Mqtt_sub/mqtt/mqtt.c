@@ -1,3 +1,11 @@
+/*
+- * COPYRIGHT (C) 2021 Electosh Solution Pvt. Ltd - All Rights Reserved
+ *
+ *      %name      : mqtt.c %
+ *      Author     : Thrimurthi M
+ *      Modified By: Thrimurthi M
+ */
+
 #include <stdio.h>
 
 #include <string.h>
