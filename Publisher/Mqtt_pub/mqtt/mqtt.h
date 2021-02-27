@@ -1,3 +1,10 @@
+/*
+- * COPYRIGHT (C) 2021 Electosh Solution Pvt. Ltd - All Rights Reserved
+ *
+ *      %name      : mqtt.h %
+ *      Author     : Thrimurthi M
+ *      Modified By: Thrimurthi M
+ */
 
 #ifndef mqtt_h
 #define mqtt_h
